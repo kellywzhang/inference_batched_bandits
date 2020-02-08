@@ -1,6 +1,6 @@
 
 # "Inference for Batched Bandits" 
-This repo is to reproduce the main results from the "Inference for Batched Bandits" paper by Kelly Zhang, Lucas Janson, and Susan Murphy (arXiv link).
+This repo is to reproduce the main results from the "Inference for Batched Bandits" paper by Kelly W. Zhang, Lucas Janson, and Susan A. Murphy (arXiv link).
 
 ## Requirements
 - python (tested for python 3.7)
@@ -19,7 +19,7 @@ This is the main file for performing inference on the data generated from the ba
 This script generates the expected rewards for both arms for the non-stationary simulations used in the paper. The script saves these files in the `nonstationary_means` directory, which is automatically created.
 
 ### process_nonstationary.py
-This script generates the power plots for the non-stationary treatment effect setting (must be run after running process.py).
+This script generates the power plots for the non-stationary treatment effect setting (must be run after running `process.py`).
 
 ### utils.py
 This file includes some useful functions used by the other main scripts.
