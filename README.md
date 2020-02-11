@@ -1,6 +1,6 @@
 
 # "Inference for Batched Bandits" 
-This repo is to reproduce the main results from the "Inference for Batched Bandits" paper by Kelly W. Zhang, Lucas Janson, and Susan A. Murphy (arXiv link).
+This repo is to reproduce the main results from the "Inference for Batched Bandits" paper by Kelly W. Zhang, Lucas Janson, and Susan A. Murphy (https://arxiv.org/abs/2002.03217).
 
 ## Requirements
 - python (tested for python 3.7)
